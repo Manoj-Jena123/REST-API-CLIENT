@@ -4,7 +4,7 @@
 
 *NAME*: MANOJ JENA
 
-*INTERN ID*: CT04DN1994
+*INTERN ID*: CT04DF1487
 
 *DOMAIN*: JAVA PROGRAMMING
 
@@ -14,4 +14,6 @@
 
 ## TASK IS REST API CLIENT , VS CODE IS USED
 
-# OUTPUT![Image](https://github.com/user-attachments/assets/0df75d7e-016b-4647-8758-43756e9c592c)
+# OUTPUT
+
+![Image](https://github.com/user-attachments/assets/0df75d7e-016b-4647-8758-43756e9c592c)
